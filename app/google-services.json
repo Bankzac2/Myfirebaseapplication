@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "241125065249",
+    "firebase_url": "https://myfirebaseapplication-cef0f.firebaseio.com",
+    "project_id": "myfirebaseapplication-cef0f",
+    "storage_bucket": "myfirebaseapplication-cef0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241125065249:android:142c2e0c91592158",
+        "android_client_info": {
+          "package_name": "jirapong_sukonvijit.myfirebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241125065249-cnli6mj06km0clqqsulkdqhch0bhu2po.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "241125065249-s80flvoraadtjqvl5i7vh2vltvb8ro4k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "241125065249-utg1ipisd04h2bqs6f6drccsdo7560nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jirapong_sukonvijit.myfirebaseapplication",
+            "certificate_hash": "402ff591bec4cbe504c600ca23d06fd66aaab3a6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTuAt6uyT5iVcGCmc2ln5oSElGXZV5gxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241125065249-cnli6mj06km0clqqsulkdqhch0bhu2po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
